@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Khushboo</h1>
 <h3 align="center">Software Engineer | MERN Stack | Backend & System Design</h3>
-<h3 align="center">Building real-world engineering & data-driven applications</h3>
 
-<p> I am a Software Engineer with experience building <b>production-grade web applications</b>
-and <b>engineering-driven systems</b>.</p>
-<p> My work focuses on <b>backend development, API design, database modeling</b>,
-and building scalable full-stack applications using the MERN stack.</p>
-<p> I enjoy solving real-world problems, working on complex workflows,
-and continuously improving system performance and reliability.</p>
+<p> I am a Software Engineer building <b>production-grade web applications</b> and <b>engineering-driven systems</b>.</p>
+<p> My work primarily focuses on <b>backend development, API design, database modeling</b>, and designing <b>scalable full-stack applications</b> using the MERN stack. I have experience working with <b>complex data flows, session-based systems, and real-world engineering constraints</b>.</p>
+<p> I enjoy solving <b>non-trivial problems</b>, designing <b>reliable backend workflows</b>, and improving <b>system performance, scalability, and maintainability</b> through thoughtful architecture and clean code.</p>
 
 <h3 align="left">Core Expertise</h3>
 <ul>
